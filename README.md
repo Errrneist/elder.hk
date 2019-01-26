@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Errrneist/elder.hk/blob/master/img/vpn.jpg" alt="vpn" width="200">
+<img align="right" src="https://github.com/Errrneist/elder.hk/blob/master/img/vpn.jpg" alt="vpn" width="250">
 
 # elder.hk
 ### [Forever young, forever naive.](https://errrneist.github.io/elder/)
